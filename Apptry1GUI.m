@@ -22,7 +22,7 @@ function Apptry1GUI_OpeningFcn(hObject, eventdata, handles, varargin)
 handles.output = hObject;
 guidata(hObject, handles);
 setNamespace('Apptry1GUI');
-
+set(handles.figure1, 'name', sprintf('%s - %s', get(handles.figure1, 'name'), getAppDir()));
 
 
 % --------------------------------------------------------------------

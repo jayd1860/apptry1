@@ -1,0 +1,3 @@
+[submodule "Utils/Shared"]
+	path = Utils/Shared
+	url = https://github.com/jayd1860/Utils

@@ -4,3 +4,7 @@
 [submodule "test2"]
 	path = test2
 	url = https://github.com/jayd1860/test2
+[submodule "DataTree"]
+	path = DataTree
+	url = https://github.com/jayd1860/DataTree
+	branch = master
